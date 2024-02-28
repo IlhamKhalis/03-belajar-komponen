@@ -59,3 +59,30 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 ![Screenshot](assets-report/02.png)
 
 Saya mempelajari membuat komponen baru, mengimport komponen tersebut, dan update pada page.tsx menghasilkan output yang kurang lebih sama dengan cara yang berbeda.
+
+### Jawaban Soal 2
+
+Silakan perbaiki kode JSX berikut ini. Anda boleh menggunakan konverter atau perbaiki secara manual.
+
+Code program setelah diperbaiki
+```
+export default function Bio() {
+    return (
+      <div className="intro">
+        <h1>Selamat datang di website saya!</h1>
+        <p className="summary">
+          Anda dapat membaca uneg-unegku di sini.
+          <br /><br />
+          <b>Juga ada <i>foto</i></b> ilmuwan!
+        </p>
+      </div>
+    );
+}
+```
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi?
+
+![Screenshot](assets-report/03.png)
+
+Error tersebut terjadi karena sintaks JSX tidak benar. JSX adalah sintaks yang mirip dengan HTML dan digunakan dalam React untuk menulis UI. Namun, ada beberapa perbedaan penting antara JSX dan HTML, seperti penggunaan className alih-alih class, dan keharusan untuk menutup semua elemen.
+
