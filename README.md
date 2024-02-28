@@ -51,3 +51,11 @@ Ubah isi kode Home() sehingga dapat tampil seperti berikut dengan memanfaatkan k
 
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana Anda solve error tersebut?
 Saya mempelajari cara mendefinisikan komponon dan cara saya memperbaiki erorr deengan cara menambahkan code di file next.config.js.
+
+### Jawaban Soal 2
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![Screenshot](assets-report/02.png)
+
+Saya mempelajari membuat komponen baru, mengimport komponen tersebut, dan update pada page.tsx menghasilkan output yang kurang lebih sama dengan cara yang berbeda.
