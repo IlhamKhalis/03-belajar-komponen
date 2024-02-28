@@ -6,11 +6,13 @@ import Todo from "../components/todolist";
 
 function Home() {
   return (
-    <div>
-      <div>
-        <Todo />
-      </div>
-    </div>
+    <section>
+      <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
+      <hr />
+      <Gallery />
+      <hr />
+      <Todo />
+    </section>
   );
 }
 

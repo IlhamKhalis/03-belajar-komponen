@@ -93,3 +93,12 @@ Error tersebut terjadi karena sintaks JSX tidak benar. JSX adalah sintaks yang m
 Kode di atas masih terdapat error, silakan diperbaiki.
 
 ![Screenshot](assets-report/04.png)
+
+### Jawaban soal 5
+
+Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person.
+Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tampilan web saat ini?
+
+![Screenshot](assets-report/05.png)
+
+Ya terdapat perbedaan dari soal 4
