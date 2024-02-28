@@ -80,9 +80,16 @@ export default function Bio() {
 }
 ```
 
+### Jawaban Soal 3
+
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi?
 
 ![Screenshot](assets-report/03.png)
 
 Error tersebut terjadi karena sintaks JSX tidak benar. JSX adalah sintaks yang mirip dengan HTML dan digunakan dalam React untuk menulis UI. Namun, ada beberapa perbedaan penting antara JSX dan HTML, seperti penggunaan className alih-alih class, dan keharusan untuk menutup semua elemen.
 
+### Jawaban Soal 4
+
+Kode di atas masih terdapat error, silakan diperbaiki.
+
+![Screenshot](assets-report/04.png)
