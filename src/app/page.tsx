@@ -5,12 +5,12 @@ import Bio from "../components/bio";
 import Todo from "../components/todolist";
 import Mg from "../components/mygallery";
 import Mp from "../components/myprofile";
+import Mp2 from "../components/myprofilev2";
 
 function Home() {
   return (
     <section>
-      <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
-      <Mp />
+      <Mp2 />
     </section>
   );
 }

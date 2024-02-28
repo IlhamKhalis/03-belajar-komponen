@@ -128,3 +128,11 @@ Ubahlah komponen MyAvatar untuk diolah ukuran gambarnya berdasarkan prop size. K
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
 
 ![Screenshot](assets-report/08.png)
+
+### Jawaban soal 8
+
+Jika kode di atas terdapat error, silakan diperbaiki.
+Buatlah komponen Card dari kode di atas, lalu gunakan prop children untuk mengirimkan JSX yang berbeda.
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![Screenshot](assets-report/09.png)
