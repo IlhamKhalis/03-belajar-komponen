@@ -102,3 +102,11 @@ Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tam
 ![Screenshot](assets-report/05.png)
 
 Ya terdapat perbedaan dari soal 4
+
+### Jawaban soal 6
+
+Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![Screenshot](assets-report/06.png)
+
+Untuk hasil sama dari soal sebelumnya, yang membedakan properti src dari elemen img.
