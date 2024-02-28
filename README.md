@@ -121,3 +121,10 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 
 ![Screenshot](assets-report/07.png)
 
+### Jawaban soal 8
+
+Jika kode di atas terdapat error, silakan diperbaiki.
+Ubahlah komponen MyAvatar untuk diolah ukuran gambarnya berdasarkan prop size. Khususnya, jika size kurang dari 90, kirimkan 's' ("small") bukan 'b' ("big") pada fungsi getImageUrl. Pastikan bahwa perubahan yang Anda buat berjalan dengan cara me-render avatars dengan nilai prop size yang berbeda dan buka gambar pada tab baru di browser.
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![Screenshot](assets-report/08.png)
