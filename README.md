@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Laporan Praktikum
+
+|  | Pemrograman Berbasis Framework 2024 |
+|--|--|
+| NIM |  2141720230 |
+| Nama |  Ilham Khalis Putra Agatha |
+| Kelas | TI - 3A |
+
+### Jawaban Soal 1
+
+Ubah isi kode Home() sehingga dapat tampil seperti berikut dengan memanfaatkan komponen Profile() yang tadi sudah dibuat dari langkah 1 tersebut!
+
+![Screenshot](assets-report/01.png)
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana Anda solve error tersebut?
+Saya mempelajari cara mendefinisikan komponon dan cara saya memperbaiki erorr deengan cara menambahkan code di file next.config.js.
