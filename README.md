@@ -110,3 +110,14 @@ Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaika
 ![Screenshot](assets-report/06.png)
 
 Untuk hasil sama dari soal sebelumnya, yang membedakan properti src dari elemen img.
+
+### Jawaban soal 7
+
+Jika kode di atas terdapat error, silakan diperbaiki.
+
+Komponen MyGallery ini berisi dua markup yang sama persis. Ekstraklah menjadi komponen MyProfile untuk mengurangi duplikasi. Anda perlu memilih props apa saja yang akan dikirimkan.
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![Screenshot](assets-report/07.png)
+
