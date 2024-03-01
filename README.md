@@ -129,7 +129,7 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 
 ![Screenshot](assets-report/08.png)
 
-### Jawaban soal 8
+### Jawaban soal 9
 
 Jika kode di atas terdapat error, silakan diperbaiki.
 Buatlah komponen Card dari kode di atas, lalu gunakan prop children untuk mengirimkan JSX yang berbeda.
